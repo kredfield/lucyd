@@ -10,9 +10,9 @@ lucyd offers something different. Our algorithm focuses on you--how do you perce
 
 ## Down to the data science
 Designing lucyd required several steps:
-  * **Algorithm:** Outline framework and requirements of a music recommendation algorithm based upon user-determined "tags", rather than song and/or artist attributes.
-  * **Data Source(s):** Identify potential data sources to "teach" the recommendation algorithm.
-  * **Visualizations:** Develop visualizations that help the user understand the songs in their playlist, and the ones nearby.
+  * [**Algorithm:**](/1_Algorithms/) Outline framework and requirements of a music recommendation algorithm based upon user-determined "tags", rather than song and/or artist attributes.
+  * [**Data Source(s):**](/2_Data Sources/) Identify potential data sources to "teach" the recommendation algorithm.
+  * [**Visualizations:**](/3_Visualizations/) Develop visualizations that help the user understand the songs in their playlist, and the ones nearby.
 
 ## About the developers
 
