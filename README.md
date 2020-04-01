@@ -1,3 +1,4 @@
+<img src="/static_content/Lucyd-Logo_blue.png" width="100">
 ![alt text](/static_content/Lucyd-Logo_blue.png | width=200)
 
 ## What is lucyd?
