@@ -1,4 +1,4 @@
-![alt text](/static_content/Lucyd-Logo_blue.png | width=200)
+<img src="/static_content/Lucyd-Logo_blue.png" width="400">
 
 ## What is lucyd?
 lucyd is a music recommendation tool developed by four graduate students in UC Berkeley's Master of Information and Data Science (MIDS) program.
