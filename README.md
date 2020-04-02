@@ -15,7 +15,8 @@ lucyd is not for someone who just flips on the radio and rocks along to today's 
 Designing lucyd required several steps:
   * [**Algorithms:**](/1_Algorithms/) Outline framework and requirements of a music recommendation algorithm based upon user-determined "tags", rather than song and/or artist attributes.
   * [**Data Source(s):**](/2_DataSources/) Identify potential data sources to "teach" the recommendation algorithm.
-  * [**Visualizations:**](/3_Visualizations/) Develop visualizations that help the user understand the songs in their playlist, and the ones nearby.
+  * [**Visualizations:**](/3_Visualizations/) Develop visualizations that help the user understand the songs in their playlist, and the ones nearby
+  * [**Application Framework:**](/4_ApplicationFramework/) Combine all of these elements into a live web application that allows the user to influence and learn from the songs recommended by lucyd.
 
 ## About the developers
 #### Tim Spittle
@@ -32,7 +33,7 @@ About Mike
 *Visualizations & Project Management*\
 [github](https://github.com/hrocks0218) | [LinkedIn](https://www.linkedin.com/in/hanna-rocks-62b56040/)\
 Hanna is a technology consultant in the Customer Experience (CX) industry. She is currently based in Bozeman, Montana, providing solutions and expertise to large enterprise clients as they design, maintain and improve their CX programs. Keeping with her interest in CX, Hanna is responsible for the user experience for lucyd.\
-**Primary Skills Used:** HTML, CSS, JavaScript & D3
+**Primary Skills Developed:** HTML, CSS, JavaScript & D3
 
 
 ## About MIDS
