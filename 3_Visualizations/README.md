@@ -1,6 +1,4 @@
 ## Visualizing a Song Space and Nearby Tags
-Hanna Rocks\
-April 15, 2020
 
 ### Objective
 The overarching goal of lucyd was to create a simple tool that taught the user where their music recommendations came from, and how they might modify those recommendations to best suit their mood. As is detailed in the [Algorithms](https://github.com/timspit/lucyd/tree/master/1_Algorithms) section, we used machine learning and natural language processing techniques to identify the recommended songs based on user tags. The next challenge was **how can we communicate the source of those recommendations to a user?**
