@@ -12,7 +12,7 @@ We determined that this would require two steps:
 We chose to use a Venn Diagram to visualize the number of songs returned from a user's tag query and the amount of overlap between tags for that set of songs. A Venn Diagram is a classic infographic that we believed most users would be familiar with, and, with the help of some responsive tooltips, easily understand the space of songs returned by their query.
 
 To implement the Venn Diagram, we used Ben Frederickson's [venn.js](https://github.com/benfred/venn.js) library. This library allowed us to take data sent through an API response and quickly render a proportional Venn Diagram that could support user interactions.
-```
+```javascript
 // Initialize the Venn Diagram
 var chart = venn.VennDiagram()
     .width(width)
@@ -25,7 +25,7 @@ var div = d3.select("#venn_box").datum(graph.data).call(chart);
 
 Because the `venn.js` library uses [d3](https://d3js.org/), the resulting visualizations are highly customizeable. We sought to add three customizations to improve the users' experience with this element of lucyd:
   1. Change color scheme to align with lucyd brand colors.
-```
+```javascript
 //List of lucyd brand colors
 var colors = ['#D5FF31',
               '#CC6CF7',
@@ -44,7 +44,7 @@ div.selectAll(".venn-circle path")
         });
 ```
   2. Add a legend to indicate which circle corresponds to which tag.
-```
+```javascript
 // Select the legend element from the HTML template
 var legend = d3.select("#venn_legend");
 // Update the text of the legend with the tags and their corresponding colors
