@@ -13,10 +13,12 @@ There are many open-source music databases, including APIs to popular streaming 
 
 Both sources provided easily accessible datasets which included tags at the song and/or artist level. Exploratory data analysis (detailed [here]()) revealed that the tag data was a little sparse, but it would be more than enough to build a viable recommendation model.
 
-#### Cloud Infrastructure
-Simply requesting songs from user-inputted tags is not a complex task, when performed in a local environment with a relatively small dataset. Executing this process at scale in a cloud environment is a different beast.
+The mission of lucyd is to provide recommendations based entirely on crowd-sourced information about songs. Our data is based on existing tag data from last.fm and the Million Song Dataset while providing users the ability to add to the existing corpus.
 
-Executing a tag query in lucyd requires eight data exchanges.
+#### Cloud Infrastructure
+Simply requesting songs from user-inputted tags is not a complex task when performed in a local environment with a relatively small dataset. Executing this process at scale in a cloud environment is much more complex.
+
+Executing a tag query in lucyd requires eight data exchanges. As seen in the diagram below, the user asks lucyd for information about a series of tags. Under the hood, lucyd then asks for information from a series of custom APIs from Amazon Web Services (AWS). These APIs activate Lambda functions (on-demand functions within our AWS infrastructure), which subsquently perform queries in the underlying lucyd database. The lucyd database relays that information back up to the Lambda function, which performs some tasks with it, sends it back to the API Gateway, which reports it back to the webpage. Whew! If you didn't follow that, I don't blame you. Here's a diagram to fill in the gaps in our eloquence.
 
 **@KYLE INSERT DIAGRAM & BRIEF DESCRIPTION (similar to slide 7 of presentation #2)**
 Description should link to notebooks showing query functions related to database activities
