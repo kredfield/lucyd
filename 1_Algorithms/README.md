@@ -1,6 +1,4 @@
 ## Designing a Recommendation Algorithm
-Michael Ballschmiede & Tim Spittle\
-April 15, 2020
 
 ### Objective
 

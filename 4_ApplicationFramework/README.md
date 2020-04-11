@@ -1,8 +1,6 @@
 ## Building a Web App
-Tim Spittle\
-April 15, 2020
 
-## Objective
+### Objective
 
 ## Approach
 

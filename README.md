@@ -32,9 +32,9 @@ About Mike
 #### Hanna Rocks
 *Visualizations & Project Management*\
 [github](https://github.com/hrocks0218) | [LinkedIn](https://www.linkedin.com/in/hanna-rocks-62b56040/)\
-Hanna is a technology consultant in the Customer Experience (CX) industry. She is currently based in Bozeman, Montana, providing solutions and expertise to large enterprise clients as they design, maintain and improve their CX programs. Keeping with her interest in CX, Hanna is responsible for the user experience for lucyd.\
+Hanna is a technology consultant in the Customer Experience (CX) industry. She is currently based in Bozeman, Montana, providing solutions and expertise to large enterprise clients as they design, maintain and improve their CX programs. Keeping with her interest in CX and data visualization, Hanna was responsible for the user experience and interactive infographics in lucyd's user interface.\
 **Primary Skills Developed:** HTML, CSS, JavaScript & D3
 
 
 ## About MIDS
-Tim, Kyle, Mike and Hanna developed lucyd during the course of their Capstone semester in [UC Berkeley's Master of Information and Data Science (MIDS)](https://datascience.berkeley.edu/) program. MIDS offers a comprehensive curriculum in data science, including courses focused on computer science, machine learning at scale and legal, policy and ethical issues.
+We developed lucyd during the course of our Capstone semester in [UC Berkeley's Master of Information and Data Science (MIDS)](https://datascience.berkeley.edu/) program. MIDS offers a comprehensive curriculum in data science, including courses focused on computer science, machine learning at scale and legal, policy and ethical issues.
