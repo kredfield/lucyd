@@ -16,9 +16,9 @@ Both sources provided easily accessible datasets which included tags at the song
 The mission of lucyd is to provide recommendations based entirely on crowd-sourced information about songs. Our data is based on existing tag data from last.fm and the Million Song Dataset while providing users the ability to add to the existing corpus.
 
 #### Data Transformations
-The Million Song Dataset is publicly available via an Amazon EC2 instance. [This notebook](./Notebooks/01_Retrieve+Raw+MSD+Data.ipynb) outlines the steps we took to retrieve fields and download them to an S3 bucket for use with lucyd.
+The Million Song Dataset is publicly available via an Amazon EC2 instance. [This notebook](./Notebooks/01_Retrieve%20Raw%20MSD%20Data.ipynb) outlines the steps we took to retrieve fields and download them to an S3 bucket for use with lucyd.
 
-Once we had a working copy of the Million Song Dataset, we [downloaded the last.fm data and merged the tag information](./Notebooks/02_Merge+Last.FM+Tags.ipynb) contained within with our primary dataset.
+Once we had a working copy of the Million Song Dataset, we [downloaded the last.fm data and merged the tag information](./Notebooks/02_Merge%20Last.FM%20Tags.ipynb) contained within with our primary dataset.
 
 Finally, we needed to link each track to Spotify so that we would be able to provide audio clips and links for songs displayed within lucyd. Both MSD and last.fm provide unique song identifiers, however we found that many of these identifiers were out of date. We ran [this process](./Notebooks/03_MSDSongID_Spotify_Crosswalk.ipynb) to update the identifiers using an open-source crosswalk. For those songs not included in the crosswalk, we searched the song name and artist using Spotify's API and retrieved the song identifier.
 
