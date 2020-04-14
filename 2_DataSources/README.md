@@ -20,7 +20,7 @@ Simply requesting songs from user-inputted tags is not a complex task when perfo
 
 Executing a tag query in lucyd requires eight data exchanges. As seen in the diagram below, the user asks lucyd for information about a series of tags. Under the hood, lucyd then asks for information from a series of custom APIs from Amazon Web Services (AWS). These APIs activate Lambda functions (on-demand functions within our AWS infrastructure), which subsquently perform queries in the underlying lucyd database. The lucyd database relays that information back up to the Lambda function, which performs some tasks with it, sends it back to the API Gateway, which reports it back to the webpage. Whew! If you didn't follow that, I don't blame you. Here's a diagram to fill in the gaps in our eloquence.
 
-![A diagram of data flow](https://github.com/timspit/lucyd/tree/master/static_content/lucyd_infrastructure.png)
+![A diagram of data flow](static_content/lucyd_infrastructure.png)
 
 For more detail on the full architecture of our deployed product, refer to the [Application Framework](https://github.com/timspit/lucyd/tree/master/4_ApplicationFramework) section.
 ### References
