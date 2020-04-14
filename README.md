@@ -4,12 +4,12 @@
 lucyd is a music recommendation tool developed by four graduate students in UC Berkeley's Master of Information and Data Science (MIDS) program.
 
 ## Why is it different?
-lucyd seeks to demystify the typical "black box" music recommendation algorithm. When you log in to Spotify or Apple Music, you can only assume how these providers develop your weekly recommended playlist.
+lucyd let's you ask for music recommendations using whichever terms you want. lucyd seeks to demystify the typical "black box" music recommendation algorithm by not only giving you the freedom to customize your recommended playlists, but by giving you interactive tools and visualizations so you learn about your music while you explore.
 
 lucyd offers something different. Our algorithm focuses on you--how do you perceive a song, and how can that be used to find new ones?
 
 ## Who is lucyd for?
-lucyd is not for someone who just flips on the radio and rocks along to today's Top 40 hits. It is a tool for music "Savants and Enthusiasts"--the people whose favorite pastime is perusing music blogs or the depths of their streaming service. lucyd is for users who are willing to put in a little effort to find the next song to hit their "Most Played" list.
+lucyd is a tool for people who are curious about music. If your favorite pasttime is perusing music blogs, clicking into the depths of your streaming service, or curating your own playlists, lucyd can provide you with more tools to navigate the worlds music.
 
 ## Down to the data science
 Designing lucyd required several steps:
@@ -20,9 +20,10 @@ Designing lucyd required several steps:
 
 ## About the developers
 #### Tim Spittle
-*Product Design & Cloud Architecture*\
-[github]() | [LinkedIn]()\
-About Tim
+*Product Design & Web Development*\
+[github](https://github.com/timspit) | [LinkedIn](https://www.linkedin.com/in/tim-spittle/)\
+Tim is an economic consultant in Boston, MA where he works on complex data modeling engagements. For lucyd he was responsible for the product design and connecting the work of the team into a web application.  
+**Primary Skills Developed:** Django, AWS serverless web development (API Gateway, Lambda, Cloudfront, Route 53, ACM)   
 #### Kyle Redfield
 [github]() | [LinkedIn]()\
 About Kyle
