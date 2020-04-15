@@ -16,7 +16,7 @@ Using Amazon Sagemaker, we converted the tags for each song into a TFIDF vector.
 
 For more detail, please see the notebooks linked below:
   * [LDA Topic Vectorization](./LDA_Tag_Topic_Prediction.ipynb)
-  * [Lambda Function for Kmeans]('./Single Song Recommendation.ipynb')
+  * [Lambda Function for Kmeans](./Single%20Song%20Recommendation.ipynb)
   
 ###### Cosine Similarity
 Cosine similarity is a metric which uses the angle between two vectors projected in multi-dimensional space to measure the similarity between them. Often used to compare text corpora, we felt cosine similarity suited our purposes well given the nature of our input data. Mathematically, it measures the cosine of the angle between two vectors to determine their relative orientations; the smaller the angle, the higher the cosine similarity. Cosine similarity is especially neat and usful when used in the positive space which we are working with, where the outcome is neatly bounded in [0,1]. Here, vectors are maximally similar if they're parallel (i.e. two documents containing the exact same word distributions or two tag lists containing the exact same tags, regardless of order) and maximally dissimilar if they're perpindicular or orthogonal. 
