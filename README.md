@@ -25,6 +25,7 @@ Designing lucyd required several steps:
 Tim is an economic consultant in Boston, MA where he works on complex data modeling engagements. For lucyd he was responsible for the product design and connecting the work of the team into a web application.  
 **Primary Skills Developed:** Django, AWS serverless web development (API Gateway, Lambda, Cloudfront, Route 53, ACM)   
 #### Kyle Redfield
+*Cloud Data Architect*\ 
 [github](https://github.com/kredfield/Resume_Work) | [LinkedIn](https://www.linkedin.com/in/kyle-redfield-0a563736/)\
 Kyle is a federal data science consultant in Washington DC. His professional work focuses on interacting with Medicare health claims databases and designing auditing and monitoring algorithms to identify non-compliance or risk. He leveraged this experience to scale lucyd's cloud infrastructure, developing the databases, data pipeline, and query structure that supports user interaction with the data.
 
