@@ -2,7 +2,7 @@
 
 ### Objective
 
-Our objective was to design recommendation algorithms that made the process of finding songs via tags as natural and intuitive as possible for the end user.  
+Our objective was to design recommendation algorithms that made the process of finding songs via tags as natural and intuitive as possible for the end user. One of lucyd's foundational ideas is avoiding black box models for our users: we want to prioritize parsimonious methods that are simple to understand and communicate so we are always clear on how our model is functioning under the hood.  
 
 Our primary recommendation algorithm simply applies a clustering algorithm to the song-tag space, filtered to the query tags from the user. This very literally shows the user songs closest to the "center" of their query. This can often return varied interpretations of those tags as the tags/topics assigned to those songs (outside of the direct query) can weigh in on the recommendation. We saw it necessary, then, to give the user additional tools to continue refining their search and more easily find the songs they are looking for.  
 
