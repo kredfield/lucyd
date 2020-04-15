@@ -38,7 +38,7 @@ Mike is a Chicago-based derivatives trader who enjoys live music and his mini Be
 #### Hanna Rocks
 *User Interface & Project Management*\
 [github](https://github.com/hrocks0218) | [LinkedIn](https://www.linkedin.com/in/hanna-rocks-62b56040/)\
-Hanna is a technology consultant in the Customer Experience (CX) industry based in Bozeman, Montana. For most of the project, Hanna was responsible for building visualizations in D3, but in the final week discovered AJAX and re-arranged how everything on the front-end fit together so she could add some progress spinners. Thankfully, it worked out.\
+Hanna is a technology consultant working in the Customer Experience (CX) industry out of Bozeman, Montana. For most of the project, Hanna was responsible for building visualizations in D3, but in the final week discovered AJAX and re-arranged how everything on the front-end fit together so she could add some progress spinners. Thankfully, it worked out.\
 **Primary Skills Developed:** HTML, CSS, JQuery, JavaScript & D3
 
 
