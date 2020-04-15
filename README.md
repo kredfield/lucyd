@@ -27,6 +27,7 @@ Tim is an economic consultant in Boston, MA where he works on complex data model
 #### Kyle Redfield
 [github](https://github.com/kredfield/Resume_Work) | [LinkedIn](https://www.linkedin.com/in/kyle-redfield-0a563736/)\
 Kyle is a federal data science consultant in Washington DC. His professional work focuses on interacting with Medicare health claims databases and designing auditing and monitoring algorithms to identify non-compliance or risk. He leveraged this experience to scale lucyd's cloud infrastructure, developing the databases, data pipeline, and query structure that supports user interaction with the data.
+
 **Primary Skills Developed:** Cloud Architecture (Amazon RDS mySQL, DynamoDB, DataPipeline, S3); Cloud Machine Learning (AWS EC2, AWS Sagemaker); Cloud serverless web development (AWS API Gateway, AWS Lambda, AWS IAM User Management); Python; SciPy
 #### Michael Ballschmiede
 *Algorithmic Design*\
