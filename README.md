@@ -22,8 +22,8 @@ Designing lucyd required several steps:
 #### Tim Spittle
 *Product Design & Web Development*\
 [github](https://github.com/timspit) | [LinkedIn](https://www.linkedin.com/in/tim-spittle/)\
-Tim is an economic consultant in Boston, MA where he works on complex data modeling engagements. For lucyd he was responsible for the product design and connecting the work of the team into a web application.  
-**Primary Skills Developed:** Django, AWS serverless web development (API Gateway, Lambda, Cloudfront, Route 53, ACM)   
+Tim is an economic consultant in Boston, MA where he works on complex data modeling engagements. For lucyd he was responsible for the product design and connecting the work of the team into a web application.
+**Primary Skills Developed:** Django, AWS serverless web development (API Gateway, Lambda, Cloudfront, Route 53, ACM)
 #### Kyle Redfield
 *Cloud Data Architect*\
 [github](https://github.com/kredfield/Resume_Work) | [LinkedIn](https://www.linkedin.com/in/kyle-redfield-0a563736/)\
@@ -34,12 +34,12 @@ Kyle is a federal data science consultant in Washington DC. His professional wor
 *Algorithmic Design*\
 [github](https://github.com/mballschmiede) | [LinkedIn](https://www.linkedin.com/in/mballschmiede/)\
 Mike is a Chicago-based derivatives trader who enjoys live music and his mini Bernedoodle, Hugo. At a young age he developed an internal algorithm to identify the most efficient checkout line at any given supermarket; rumor has it he has never been wrong. He tried to replicate some of this magic in the development of lucyd, where he focused on algorithmic design and user interactivity.\
-**Primary Skills Developed:** Python, AWS serverless web development (API Gateway, Lambda, SageMaker, S3)  
+**Primary Skills Developed:** Python, AWS serverless web development (API Gateway, Lambda, SageMaker, S3)
 #### Hanna Rocks
-*Visualizations & Project Management*\
+*User Interface & Project Management*\
 [github](https://github.com/hrocks0218) | [LinkedIn](https://www.linkedin.com/in/hanna-rocks-62b56040/)\
-Hanna is a technology consultant in the Customer Experience (CX) industry. She is currently based in Bozeman, Montana, providing solutions and expertise to large enterprise clients as they design, maintain and improve their CX programs. Keeping with her interest in CX and data visualization, Hanna was responsible for the user experience and interactive infographics in lucyd's user interface.\
-**Primary Skills Developed:** HTML, CSS, JavaScript & D3
+Hanna is a technology consultant in the Customer Experience (CX) industry based in Bozeman, Montana. For most of the project, Hanna was responsible for building visualizations in D3, but in the final week discovered AJAX and re-arranged how everything on the front-end fit together so she could add some progress spinners. Thankfully, it worked out.\
+**Primary Skills Developed:** HTML, CSS, JQuery, JavaScript & D3
 
 
 ## About MIDS
