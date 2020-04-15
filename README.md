@@ -29,7 +29,8 @@ Tim is an economic consultant in Boston, MA where he works on complex data model
 About Kyle
 #### Michael Ballschmiede
 [github]() | [LinkedIn]()\
-About Mike
+Mike is a Chicago-based derivatives trader who enjoys live music and his mini Bernedoodle, Hugo. At a young age he developed an internal algorithm to identify the most efficient checkout line at any given supermarket; rumor has it he has never been wrong. He tried to replicate some of this magic in the development of lucyd, where he focused on algorithmic design. 
+**Primary Skills Developed:** Python, AWS serverless web development (API Gateway, Lambda, SageMaker)  
 #### Hanna Rocks
 *Visualizations & Project Management*\
 [github](https://github.com/hrocks0218) | [LinkedIn](https://www.linkedin.com/in/hanna-rocks-62b56040/)\
