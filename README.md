@@ -23,7 +23,7 @@ Designing lucyd required several steps:
 *Product Design & Web Development*\
 [github](https://github.com/timspit) | [LinkedIn](https://www.linkedin.com/in/tim-spittle/)\
 Tim is an economic consultant in Boston, MA where he works on complex data modeling engagements. For lucyd he was responsible for the product design and connecting the work of the team into a web application. In his free time he enjoys long walks on the beach. He also enjoys short walks on the beach. \
-**Primary Skills Developed:** Django (HTML, CSS, JavaScript), Cloud serverless web development (AWS: API Gateway, Lambda, IAM User Management, Cloudfront, Route 53, Certificate Manager)
+**Primary Skills Developed:** Django web framework (+ HTML, CSS, JavaScript), Cloud serverless web development (AWS: API Gateway, Lambda, IAM, CloudWatch, CloudFront, Route 53, Certificate Manager)
 #### Kyle Redfield
 *Cloud Data Architect*\
 [github](https://github.com/kredfield/Resume_Work) | [LinkedIn](https://www.linkedin.com/in/kyle-redfield-0a563736/)\
