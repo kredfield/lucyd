@@ -10,7 +10,9 @@ Our "Explore" feature relies on tag-tag similarity, informed by connections via 
 
 Lastly, give the large space of songs that may share very popular tags, we allow the user to generate a playlist based off of any single song from their playlist results based on song-song similarity. If the Explore feature allows users to move further out into the tag space, the "Go" feature allows users to narrow in on a particular song. 
 
-### Approach: Data Science Techniques
+## Approach  
+
+### Data Science Techniques
 
 ##### Kmeans & Latent Dirichlet Allocation 
 In order to generate a few recommendations based on the tags that a user enters, we need to start somewhere! To do so, we look for all of the songs with the user's tags in the lucyd database and perform a kmeans on the result. We only calculate a single cluster because we attempt to find the song closest to the centroid of all of the songs that the query returns. But there are a lot of tags! Because the tags are stored in the form of a list of strings attached to each song, returning and operating on so many tags without tremendous lag on the front-end becomes tricky. Therefore, we use a dimensionality reduction technique called Latent Dirichlet Allocation.
