@@ -33,7 +33,7 @@ Kyle is a federal data science consultant in Washington DC. His professional wor
 *Algorithmic Design*\
 [github](https://github.com/mballschmiede) | [LinkedIn](https://www.linkedin.com/in/mballschmiede/)\
 Mike is a Chicago-based derivatives trader who enjoys live music and his mini Bernedoodle, Hugo. At a young age he developed an internal algorithm to identify the most efficient checkout line at any given supermarket; rumor has it he has never been wrong. He tried to replicate some of this magic in the development of lucyd, where he focused on algorithmic design and user interactivity.\
-**Primary Skills Developed:** Python, AWS serverless web development (API Gateway, Lambda, SageMaker, S3)
+**Primary Skills Developed:** Python, AWS cloud machine learning & serverless web development (API Gateway, Lambda, SageMaker, S3)
 #### Hanna Rocks
 *User Interface & Project Management*\
 [github](https://github.com/hrocks0218) | [LinkedIn](https://www.linkedin.com/in/hanna-rocks-62b56040/)\
